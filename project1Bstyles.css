@@ -1,0 +1,27 @@
+body {background: lavenderblush;
+    font-family: Verdana;
+  color: goldenrod;
+min-height:100vh;
+
+  }
+.fullpower {
+      padding: 0 0 0 3%;
+      width=100%;
+      display: flex;
+
+      flex-wrap: wrap;
+      align-items: left;
+
+}
+
+.form { vertical-align:top;
+
+  width: 30%;
+}
+.bg {background: linear-gradient( to top right, #42275a ,#734b6d);}
+hr {width:100%;
+  border-style: none;
+  border-top-style: ridge;
+  border-width: 10px;
+  border-color:orange;}
+.formentries {width:30%;}
